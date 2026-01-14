@@ -29,7 +29,7 @@ This project is an academic portfolio website created as a final examination ass
 
 ### About the Student
 
-**Maria Nikola** (NIM: 20245520009) is a 3rd-semester Informatics student at Universitas Multimedia Nusantara completing her General Knowledge Course (MKU) in Civic Education for 2025.
+**Maria Nikola** (NIM: 20245520009) is a Computer Science student completing her General Knowledge Course (MKU) in Civic Education for 2025.
 
 ## ✨ Features
 
