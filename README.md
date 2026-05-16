@@ -1,7 +1,7 @@
 
   # Portfolio Pendidikan Kewarganegaraan - Portfolio Pancasila MU
 
-A modern, interactive portfolio website showcasing academic work and reflections on Civic Education (Pendidikan Kewarganegaraan) for the course at Universitas Multimedia Nusantara. This portfolio documents the learning journey of Maria Nikola (NIM: 20245520009) throughout the semester.
+A modern, interactive portfolio website showcasing academic work and reflections on Civic Education (Pendidikan Kewarganegaraan). This portfolio documents the learning journey of Maria Nikola (NIM: 20245520009) throughout the semester.
 
 
 ## Overview
