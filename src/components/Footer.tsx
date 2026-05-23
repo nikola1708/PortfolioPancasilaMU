@@ -16,10 +16,7 @@ export function Footer() {
           transition={{ duration: 0.6 }}
           className="text-center"
         >
-          {/* Container teks utama */}
           <div className="mb-6 mt-2">
-             {/* Menambah mb-2 agar tidak terlalu mepet dengan judul di bawahnya */}
-              <p className="text-neutral-600 text-sm mb-8 font-medium"> owned by Nikola</p>
               <p className="text-neutral-900 font-bold text-lg">Pendidikan Kewarganegaraan - 2025</p>
           </div>
           
